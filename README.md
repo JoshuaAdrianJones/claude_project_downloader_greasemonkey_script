@@ -1,0 +1,2 @@
+# claude_project_downloader_greasemonkey_script
+greasemonkey_script to bulk download claude project files
